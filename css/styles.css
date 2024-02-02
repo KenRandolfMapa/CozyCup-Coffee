@@ -150,4 +150,9 @@ footer {
 .menu-item p {
     text-align: justify;
 }
+.team-members {
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px
+}
 
