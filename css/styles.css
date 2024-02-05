@@ -138,6 +138,8 @@ footer {
 }
 .menu-item button {
     border-radius: 5px;
+    background-color: blue;
+    color: white;
 }
 .menu-item img {
     width: 150px;
